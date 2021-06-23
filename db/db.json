@@ -1,36 +1,178 @@
 {
   "recipes": [
     {
-      "recipe": "https://www.foodista.com/recipe/R3FD7GM8/spaghetti-squash-boats",
-      "name": "Spaghetti Squash Boats",
-      "image": "https://spoonacular.com/recipeImages/1096014-556x370.jpg",
-      "calories": 620.07,
-      "cell": "thursdayM",
-      "ingredient": [
-        "olive oil",
-        "onions",
-        "garlic",
-        "Salt & Pepper",
-        "tomatoes",
-        "parmesan cheese",
-        "fresh basil leaves",
-        "wine",
-        "spaghetti squash",
-        "olive oil",
-        "shallots",
-        "garlic",
-        "red onion",
-        "carrot",
-        "celery",
-        "red bell pepper",
-        "yellow squash",
-        "zucchini",
-        "broccoli florets",
-        "asparagus",
-        "fresh tarragon leaves",
-        "fresh mozzarella"
+      "recipe": "http://www.foodista.com/recipe/2MQJTPWZ/red-velvet-cupcake",
+      "name": "Red Velvet Cupcake",
+      "image": "https://spoonacular.com/recipeImages/658108-556x370.jpg",
+      "calories": 370.68,
+      "cell": "tuesdayM",
+      "ingredients": [
+        "baking soda",
+        "butter",
+        "buttermilk",
+        "cake flour",
+        "cider vinegar",
+        "cream cheese",
+        "eggs",
+        "powdered sugar",
+        "red food coloring",
+        "salt",
+        "sugar",
+        "unsalted butter",
+        "unsweetened cocoa",
+        "vanilla",
+        "vanilla extract"
       ],
       "id": 1
+    },
+    {
+      "recipe": "https://www.foodista.com/recipe/XL4YYGS5/cake-de-naranja",
+      "name": "Cake De Naranja",
+      "image": "https://spoonacular.com/recipeImages/636754-556x370.jpg",
+      "calories": 151.85,
+      "cell": "wednesdayM",
+      "ingredients": [
+        "butter",
+        "sugar",
+        "egg",
+        "flour",
+        "salt",
+        "diet soda",
+        "buttermilk",
+        "orange rind",
+        "vanilla"
+      ],
+      "id": 2
+    },
+    {
+      "recipe": "https://www.foodista.com/recipe/KKTMW27V/matcha-smoothie",
+      "name": "Matcha Smoothie",
+      "image": "https://spoonacular.com/recipeImages/1095931-556x370.jpg",
+      "calories": 407.86,
+      "cell": "wednesdayA",
+      "ingredients": [
+        "banana",
+        "low fat vanilla greek yogurt",
+        "matcha powder",
+        "almond butter",
+        "date",
+        "almond milk",
+        "ice"
+      ],
+      "id": 3
+    },
+    {
+      "recipe": "https://www.foodista.com/recipe/7FD6YGWV/coffee-cookies",
+      "name": "Coffee Cookies",
+      "image": "https://spoonacular.com/recipeImages/639865-556x370.jpg",
+      "calories": 81.42,
+      "cell": "mondayA",
+      "ingredients": [
+        "cake flour",
+        "sugar",
+        "instant coffee granules",
+        "walnuts",
+        "salt",
+        "canola oil",
+        "water",
+        "raisins",
+        "powdered sugar"
+      ],
+      "id": 4
+    }
+  ],
+  "ingredients": [
+    {
+      "name": "sugar",
+      "id": 1
+    },
+    {
+      "name": "butter",
+      "id": 2
+    },
+    {
+      "name": "egg",
+      "id": 3
+    },
+    {
+      "name": "flour",
+      "id": 4
+    },
+    {
+      "name": "salt",
+      "id": 5
+    },
+    {
+      "name": "diet soda",
+      "id": 6
+    },
+    {
+      "name": "buttermilk",
+      "id": 7
+    },
+    {
+      "name": "orange rind",
+      "id": 8
+    },
+    {
+      "name": "vanilla",
+      "id": 9
+    },
+    {
+      "name": "banana",
+      "id": 10
+    },
+    {
+      "name": "low fat vanilla greek yogurt",
+      "id": 11
+    },
+    {
+      "name": "matcha powder",
+      "id": 12
+    },
+    {
+      "name": "almond butter",
+      "id": 13
+    },
+    {
+      "name": "date",
+      "id": 14
+    },
+    {
+      "name": "almond milk",
+      "id": 15
+    },
+    {
+      "name": "ice",
+      "id": 16
+    },
+    {
+      "name": "cake flour",
+      "id": 17
+    },
+    {
+      "name": "instant coffee granules",
+      "id": 18
+    },
+    {
+      "name": "walnuts",
+      "id": 19
+    },
+    {
+      "name": "canola oil",
+      "id": 20
+    },
+    {
+      "name": "water",
+      "id": 21
+    },
+    {
+      "name": "raisins",
+      "id": 22
+    },
+    {
+      "name": "powdered sugar",
+      "id": 23
     }
   ]
 }
