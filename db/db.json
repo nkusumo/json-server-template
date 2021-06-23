@@ -48,5 +48,23 @@
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
     }
+  ],
+  "recipes": [
+    {
+      "recipe": "http://www.foodista.com/recipe/NKTMRSPN/matcha-pancakes",
+      "name": "Matcha Pancakes",
+      "image": "https://spoonacular.com/recipeImages/756817-556x370.jpg",
+      "calories": 537.11,
+      "cell": "wednesdayM",
+      "id": 1
+    },
+    {
+      "recipe": "https://www.foodista.com/recipe/KKTMW27V/matcha-smoothie",
+      "name": "Matcha Smoothie",
+      "image": "https://spoonacular.com/recipeImages/1095931-556x370.jpg",
+      "calories": 407.86,
+      "cell": "wednesdayM",
+      "id": 2
+    }
   ]
 }
