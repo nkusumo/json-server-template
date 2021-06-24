@@ -1,36 +1,137 @@
 {
-    "recipes": [
-        {
-          "recipe": "https://www.foodista.com/recipe/R3FD7GM8/spaghetti-squash-boats",
-          "name": "Spaghetti Squash Boats",
-          "image": "https://spoonacular.com/recipeImages/1096014-556x370.jpg",
-          "calories": 620.07,
-          "cell": "thursdayM",
-          "ingredient": [
-            "olive oil",
-            "onions",
-            "garlic",
-            "Salt & Pepper",
-            "tomatoes",
-            "parmesan cheese",
-            "fresh basil leaves",
-            "wine",
-            "spaghetti squash",
-            "olive oil",
-            "shallots",
-            "garlic",
-            "red onion",
-            "carrot",
-            "celery",
-            "red bell pepper",
-            "yellow squash",
-            "zucchini",
-            "broccoli florets",
-            "asparagus",
-            "fresh tarragon leaves",
-            "fresh mozzarella"
-          ],
-          "id": 1
-        }
-      ]
+  "recipes": [
+    {
+      "recipe": "https://www.foodista.com/recipe/SHKG55X4/pizza-bites-with-pumpkin",
+      "name": "Pizza bites with pumpkin",
+      "image": "https://spoonacular.com/recipeImages/656329-556x370.jpg",
+      "calories": 308.7,
+      "cell": "wednesdayA",
+      "ingredients": [
+        "pumpkin",
+        "olive oil",
+        "feta cheese",
+        "mozzarella",
+        "eggs",
+        "oregano",
+        "parsley",
+        "garlic"
+      ],
+      "id": 1
+    },
+    {
+      "recipe": "https://www.foodista.com/recipe/476BQSYP/make-it-quick-italian-shrimp-rolls",
+      "name": "Make It Quick Italian Shrimp Rolls",
+      "image": "https://spoonacular.com/recipeImages/650651-556x370.jpg",
+      "calories": 397.89,
+      "cell": "mondayA",
+      "ingredients": [
+        "spaghetti sauce",
+        "shrimp",
+        "sub rolls",
+        "parmesan cheese",
+        "baby spinach"
+      ],
+      "id": 3
+    },
+    {
+      "recipe": "https://www.foodista.com/recipe/KKTMW27V/matcha-smoothie",
+      "name": "Matcha Smoothie",
+      "image": "https://spoonacular.com/recipeImages/1095931-556x370.jpg",
+      "calories": 407.86,
+      "cell": "mondayM",
+      "ingredients": [
+        "banana",
+        "low fat vanilla greek yogurt",
+        "matcha powder",
+        "almond butter",
+        "date",
+        "almond milk",
+        "ice"
+      ],
+      "id": 4
+    },
+    {
+      "recipe": "https://www.foodista.com/recipe/6YT33H5V/oatmeal-brownie-bars",
+      "name": "Oatmeal Brownie Bars",
+      "image": "https://spoonacular.com/recipeImages/653442-556x370.jpg",
+      "calories": 119.46,
+      "cell": "fridayM",
+      "ingredients": [
+        "old-fashioned oats",
+        "flour",
+        "brown sugar",
+        "baking soda",
+        "butter",
+        "brownie mix",
+        "water",
+        "vegetable oil",
+        "eggs",
+        "raisins"
+      ],
+      "id": 6
+    },
+    {
+      "recipe": "http://www.foodista.com/recipe/NKTMRSPN/matcha-pancakes",
+      "name": "Matcha Pancakes",
+      "image": "https://spoonacular.com/recipeImages/756817-556x370.jpg",
+      "calories": 537.11,
+      "cell": "wednesdayM",
+      "ingredients": [
+        "almond milk",
+        "baking powder",
+        "egg",
+        "flour",
+        "matcha powder",
+        "oil",
+        "salt",
+        "sugar",
+        "white chocolate chips"
+      ],
+      "id": 7
+    },
+    {
+      "recipe": "http://pickfreshfoods.com/pasta-margherita/",
+      "name": "Pasta Margherita",
+      "image": "https://spoonacular.com/recipeImages/511728-556x370.jpg",
+      "calories": 809.41,
+      "cell": "tuesdayA",
+      "ingredients": [
+        "fresh basil",
+        "fresh mozzarella cheese",
+        "garlic clove",
+        "grape tomatoes",
+        "kosher salt",
+        "olive oil",
+        "pasta"
+      ],
+      "id": 8
+    },
+    {
+      "recipe": "http://www.foodista.com/recipe/BLB8WCNQ/cracked-wheat-cereal",
+      "name": "Cracked Wheat Cereal",
+      "image": "https://spoonacular.com/recipeImages/640337-556x370.jpg",
+      "calories": 224.69,
+      "cell": "thursdayA",
+      "ingredients": [
+        "brown sugar",
+        "cracked wheat",
+        "raisins",
+        "salt",
+        "splenda",
+        "vanilla",
+        "water"
+      ],
+      "id": 9
+    }
+  ],
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "id": 3
+    },
+    {
+      "name": "eggs",
+      "id": 5
+    }
+  ]
 }

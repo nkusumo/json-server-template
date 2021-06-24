@@ -1,55 +1,44 @@
 {
   "recipes": [
     {
-      "recipe": "http://www.foodista.com/recipe/2MQJTPWZ/red-velvet-cupcake",
-      "name": "Red Velvet Cupcake",
-      "image": "https://spoonacular.com/recipeImages/658108-556x370.jpg",
-      "calories": 370.68,
-      "cell": "tuesdayM",
+      "recipe": "https://www.foodista.com/recipe/SHKG55X4/pizza-bites-with-pumpkin",
+      "name": "Pizza bites with pumpkin",
+      "image": "https://spoonacular.com/recipeImages/656329-556x370.jpg",
+      "calories": 308.7,
+      "cell": "wednesdayA",
       "ingredients": [
-        "baking soda",
-        "butter",
-        "buttermilk",
-        "cake flour",
-        "cider vinegar",
-        "cream cheese",
+        "pumpkin",
+        "olive oil",
+        "feta cheese",
+        "mozzarella",
         "eggs",
-        "powdered sugar",
-        "red food coloring",
-        "salt",
-        "sugar",
-        "unsalted butter",
-        "unsweetened cocoa",
-        "vanilla",
-        "vanilla extract"
+        "oregano",
+        "parsley",
+        "garlic"
       ],
       "id": 1
     },
     {
-      "recipe": "https://www.foodista.com/recipe/XL4YYGS5/cake-de-naranja",
-      "name": "Cake De Naranja",
-      "image": "https://spoonacular.com/recipeImages/636754-556x370.jpg",
-      "calories": 151.85,
-      "cell": "wednesdayM",
+      "recipe": "https://www.foodista.com/recipe/476BQSYP/make-it-quick-italian-shrimp-rolls",
+      "name": "Make It Quick Italian Shrimp Rolls",
+      "image": "https://spoonacular.com/recipeImages/650651-556x370.jpg",
+      "calories": 397.89,
+      "cell": "mondayA",
       "ingredients": [
-        "butter",
-        "sugar",
-        "egg",
-        "flour",
-        "salt",
-        "diet soda",
-        "buttermilk",
-        "orange rind",
-        "vanilla"
+        "spaghetti sauce",
+        "shrimp",
+        "sub rolls",
+        "parmesan cheese",
+        "baby spinach"
       ],
-      "id": 2
+      "id": 3
     },
     {
       "recipe": "https://www.foodista.com/recipe/KKTMW27V/matcha-smoothie",
       "name": "Matcha Smoothie",
       "image": "https://spoonacular.com/recipeImages/1095931-556x370.jpg",
       "calories": 407.86,
-      "cell": "wednesdayA",
+      "cell": "mondayM",
       "ingredients": [
         "banana",
         "low fat vanilla greek yogurt",
@@ -59,120 +48,90 @@
         "almond milk",
         "ice"
       ],
-      "id": 3
+      "id": 4
     },
     {
-      "recipe": "https://www.foodista.com/recipe/7FD6YGWV/coffee-cookies",
-      "name": "Coffee Cookies",
-      "image": "https://spoonacular.com/recipeImages/639865-556x370.jpg",
-      "calories": 81.42,
-      "cell": "mondayA",
+      "recipe": "https://www.foodista.com/recipe/6YT33H5V/oatmeal-brownie-bars",
+      "name": "Oatmeal Brownie Bars",
+      "image": "https://spoonacular.com/recipeImages/653442-556x370.jpg",
+      "calories": 119.46,
+      "cell": "fridayM",
       "ingredients": [
-        "cake flour",
-        "sugar",
-        "instant coffee granules",
-        "walnuts",
-        "salt",
-        "canola oil",
+        "old-fashioned oats",
+        "flour",
+        "brown sugar",
+        "baking soda",
+        "butter",
+        "brownie mix",
         "water",
-        "raisins",
-        "powdered sugar"
+        "vegetable oil",
+        "eggs",
+        "raisins"
       ],
-      "id": 4
+      "id": 6
+    },
+    {
+      "recipe": "http://www.foodista.com/recipe/NKTMRSPN/matcha-pancakes",
+      "name": "Matcha Pancakes",
+      "image": "https://spoonacular.com/recipeImages/756817-556x370.jpg",
+      "calories": 537.11,
+      "cell": "wednesdayM",
+      "ingredients": [
+        "almond milk",
+        "baking powder",
+        "egg",
+        "flour",
+        "matcha powder",
+        "oil",
+        "salt",
+        "sugar",
+        "white chocolate chips"
+      ],
+      "id": 7
+    },
+    {
+      "recipe": "http://pickfreshfoods.com/pasta-margherita/",
+      "name": "Pasta Margherita",
+      "image": "https://spoonacular.com/recipeImages/511728-556x370.jpg",
+      "calories": 809.41,
+      "cell": "tuesdayA",
+      "ingredients": [
+        "fresh basil",
+        "fresh mozzarella cheese",
+        "garlic clove",
+        "grape tomatoes",
+        "kosher salt",
+        "olive oil",
+        "pasta"
+      ],
+      "id": 8
+    },
+    {
+      "recipe": "http://www.foodista.com/recipe/BLB8WCNQ/cracked-wheat-cereal",
+      "name": "Cracked Wheat Cereal",
+      "image": "https://spoonacular.com/recipeImages/640337-556x370.jpg",
+      "calories": 224.69,
+      "cell": "thursdayA",
+      "ingredients": [
+        "brown sugar",
+        "cracked wheat",
+        "raisins",
+        "salt",
+        "splenda",
+        "vanilla",
+        "water"
+      ],
+      "id": 9
     }
   ],
   "ingredients": [
     {
-      "name": "sugar",
-      "id": 1
-    },
-    {
-      "name": "butter",
-      "id": 2
-    },
-    {
-      "name": "egg",
+      "name": "olive oil",
       "id": 3
     },
     {
-      "name": "flour",
-      "id": 4
-    },
-    {
-      "name": "salt",
+      "name": "eggs",
       "id": 5
-    },
-    {
-      "name": "diet soda",
-      "id": 6
-    },
-    {
-      "name": "buttermilk",
-      "id": 7
-    },
-    {
-      "name": "orange rind",
-      "id": 8
-    },
-    {
-      "name": "vanilla",
-      "id": 9
-    },
-    {
-      "name": "banana",
-      "id": 10
-    },
-    {
-      "name": "low fat vanilla greek yogurt",
-      "id": 11
-    },
-    {
-      "name": "matcha powder",
-      "id": 12
-    },
-    {
-      "name": "almond butter",
-      "id": 13
-    },
-    {
-      "name": "date",
-      "id": 14
-    },
-    {
-      "name": "almond milk",
-      "id": 15
-    },
-    {
-      "name": "ice",
-      "id": 16
-    },
-    {
-      "name": "cake flour",
-      "id": 17
-    },
-    {
-      "name": "instant coffee granules",
-      "id": 18
-    },
-    {
-      "name": "walnuts",
-      "id": 19
-    },
-    {
-      "name": "canola oil",
-      "id": 20
-    },
-    {
-      "name": "water",
-      "id": 21
-    },
-    {
-      "name": "raisins",
-      "id": 22
-    },
-    {
-      "name": "powdered sugar",
-      "id": 23
     }
   ]
 }
