@@ -122,6 +122,28 @@
         "water"
       ],
       "id": 9
+    },
+    {
+      "recipe": "https://www.pinkwhen.com/taco-casserole/",
+      "name": "Taco Casserole",
+      "image": "https://spoonacular.com/recipeImages/1460497-556x370.jpg",
+      "calories": 304.39,
+      "cell": "thursdayE",
+      "ingredients": [
+        "ground beef",
+        "onion",
+        "bell pepper",
+        "kernal corn",
+        "tomatoes",
+        "cheese",
+        "corn tortillas torn into bite sized pices",
+        "taco seasoning",
+        "chili powder",
+        "pepper",
+        "pepper",
+        "parsley"
+      ],
+      "id": 10
     }
   ],
   "ingredients": [
